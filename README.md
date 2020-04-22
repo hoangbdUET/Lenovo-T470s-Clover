@@ -1,3 +1,4 @@
+https://updates.cdn-apple.com/2020/macos/061-96007-20200408-d0aa6c1c-fa5e-45b2-80c4-176f885e2d98/macOSUpd10.15.4.dmg
 # Lenovo Thinkpad T470s Clover
 
 ## Introduction
